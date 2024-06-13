@@ -1,0 +1,1 @@
+ C:\\Users\\Paulo\\Downloads\\projeto-fluter-exercicios-rest-api-main\\.dart_tool\\flutter_build\\0924f9d40afa07e23c6d772a43b66119\\native_assets.yaml: 
